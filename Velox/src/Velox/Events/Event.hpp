@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Velox/Core.h"
+#include "Velox/Core.hpp"
 
 #include <string>
 #include <functional>

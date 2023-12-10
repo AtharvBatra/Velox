@@ -21,7 +21,7 @@ project "Velox"
 
   files
   {
-    "%{prj.name}/src/**.h",
+    "%{prj.name}/src/**.hpp",
     "%{prj.name}/src/**.cpp"
   }
 
@@ -68,7 +68,7 @@ project "Sandbox"
 
   files
   {
-    "%{prj.name}/src/**.h",
+    "%{prj.name}/src/**.hpp",
     "%{prj.name}/src/**.cpp"
   }
 

@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Velox/Core.h"
-#include "Velox/Events/Event.h"
+#include "Velox/Core.hpp"
+#include "Velox/Events/Event.hpp"
 
 namespace Velox {
 	
