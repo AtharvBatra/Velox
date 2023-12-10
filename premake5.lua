@@ -27,6 +27,7 @@ project "Velox"
 
   includedirs
   {
+    "%{prj.name}/src",
     "%{prj.name}/deplibs/spdlog/include"
   }
 
