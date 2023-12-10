@@ -1,0 +1,3 @@
+[submodule "Velox/deplibs/spdlog"]
+	path = Velox/deplibs/spdlog
+	url = git@github.com:gabime/spdlog.git
