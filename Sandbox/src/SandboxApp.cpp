@@ -1,4 +1,4 @@
-#include <Velox.hpp>
+#include <Velox.h>
 
 class Sandbox : public Velox::Application
 {

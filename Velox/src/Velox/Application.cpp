@@ -1,7 +1,7 @@
-#include "Application.hpp"
+#include "Application.h"
 
-#include "Velox/Events/ApplicationEvent.hpp"
-#include "Velox/Log.hpp"
+#include "Velox/Events/ApplicationEvent.h"
+#include "Velox/Log.h"
 
 namespace Velox {
 
